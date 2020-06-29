@@ -1,0 +1,43 @@
+[{
+    "imagePath" : "../assets/img/Evos Big.png",
+    "title": "EVOS LEGENDS",
+    "status": "On time",
+    "time": "Prestasi : ",
+    "prestasi" : "2nd MPL Season 1 <br /> 2nd MPL Season 2 <br /> 7th MPL Season 3 <br /> 1st MPL Season 4 <br /> 1st M1 <br /> 2nd MPL Season 5",
+    "deskripsi" : "Didirikan pada tahun 2016, EVOS Esports adalah organisasi profesional di bidang esports.<br /> Misi EVOS Esports adalah menjadi organisasi esports #1 di Asia Tenggara, <br />dengan terus menunjukkan kemampuannya untuk menjadi lebih maju."
+}, {
+    "imagePath" : "../assets/img/Aura Big.png",
+    "title": "AURA E-SPORT",
+    "status": "Delayed",
+    "time": "Prestasi : ",
+    "prestasi" : "6th MPL Season 4",
+    "deskripsi" : "Berdiri di tahun 2018, AURA adalah organisasi esports profesional yang dibentuk oleh gamers <br/>dengan misi untuk menginspirasi semua orang untuk tidak pernah menyerah terhadap hal yang mereka yakini.<br/> Melalui inovasi yang terus menerus, dan prioritas kepada fans fans yang ada. <br/>AURA mampu menjadi perusahaan esports dengan pertumbuhan paling cepat di South East Asia."
+}, {
+    "imagePath" : "../assets/img/AEROWOLF BIG.png",
+    "title": "GENFLIX AEROFWOLF",
+    "status": "On time",
+    "time": "Prestasi : ",
+    "prestasi" : "ini pretasi",
+    "deskripsi" : "ini deskripsi"
+}, {
+    "imagePath" : "../assets/img/AlterEgo Big.png",
+    "title": "ALTER EGO E-SPORT",
+    "status": "On time",
+    "time": "Prestasi : ",
+    "prestasi" : "5th MPL Season 3 <br/>3rd MPL Season 4",
+    "deskripsi" : "Alter Ego is a team dubbed the dark horse but slowly able to show its ability over time.<br /> Starting from MPL S2, Alter Ego did not qualify. <br />In MPL S3 Alter Ego increased his ranking to 5th place, <br />and finally in MPL S4 Alter Ego managed to reach 3rd place, but its journey didn't just end there. <br />Alter Ego will continue to grow."
+}, {
+    "imagePath" : "../assets/img/BTR Red Big.png",
+    "title": "BIGETRON ALPHA",
+    "status": "On time",
+    "time": "Prestasi : ",
+    "prestasi" : "5th MPL Season 4",
+    "deskripsi" : "Perjalan Team Mobile legend Bigetron eSports di mulai pada MpL season 1, <br/>Dimana bigetron melahirkan bintang- bintang mobile legends yang sekarang menjadi bintang seperti <br/>Eiduart,Emperor,Rekt, dan Fabiens Bigetron eSports juga tidak pernah melewatkan season MPL."
+}, {
+    "imagePath" : "../assets/img/GeekFam Medium.png",
+    "title": "GEEK FAM",
+    "status": "Delayed",
+    "time": "Prestasi : ",
+    "prestasi" : "3rd MPL Season 3 Regular Season <br/>4th MPL Season 3 Playoffs<br/>7th MPL Season 4",
+    "deskripsi" : "Didirikan pada tahun 2016 oleh Keat dan Joseph, <br/>Geek Fam siap untuk menjadi salah satu nama terkemuka di arena kompetitif pentas olahraga esport Asia."
+}]

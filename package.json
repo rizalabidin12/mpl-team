@@ -1,0 +1,21 @@
+{
+  "name": "PWATutorial",
+  "description": "PWA Tutorial",
+  "author": {
+    "name": "M Rizal Abidin",
+    "email": "rizalabidin12@gmail.com",
+    "url": "https://www.instagram.com/rizalabidin12"
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "grunt": "^1.1.0",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-config": "^3.0.1"
+  },
+  "scripts": {
+    "start": "grunt && node app.js"
+  }
+}

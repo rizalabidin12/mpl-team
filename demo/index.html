@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html class="js no-touchevents" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PWA for contestant MPL Season 5 , Author: M Rizal Abidin">
+    <title>MPL Team Season 5</title>
+    <link async rel="stylesheet" href="./css/style.css">
+    <link href="./css/fonts/css-font.css" rel="stylesheet" type="text/css">
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#29BDBB">
+    <link rel="icon" sizes="192x192" href="./launcher-icon-144.png">
+</head>
+
+<body>
+    <header>
+        <div class="content">
+            <h3>Team Mobile Legends Bang Bang Profesional League Season 5</h3>
+        </div>
+    </header>
+    <div class="container">
+        <div id="main" class="content">
+            <ul class="arrivals-list" data-bind="foreach: arrivals">
+                <li class="item">
+                    <table>
+                        <tr>
+                            <td rowspan="4">
+                                <span class="title">
+                                    <img class="responsive" data-bind="attr:{'src': imagePath , 'alt' : imagePath}" /> 
+                                </span>
+                            </td>
+                            <td>
+                                <h3>Nama Team : </h3><span class="" data-bind="html: title"></span>
+                            </td>
+                        </tr>
+                        <!-- <span class="status" data-bind="html: status"></span> -->
+                        <!-- <tr>
+                            <td><span class="time" data-bind="html: time"></span></td>
+                        </tr> -->
+                        <tr>
+                            <td><h3>Prestasi Team</h3><span class="time" data-bind="html: prestasi"></span></td>
+                        </tr>
+                        <tr>
+                            <td><h3>Deskripsi</h3><span class="time" data-bind="html: deskripsi"></span></td>
+                        </tr>
+                    </table>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script src="./js/build/vendor.min.js"></script>
+    <script src="./js/build/script.min.js"></script>
+</body>
+
+</html>
